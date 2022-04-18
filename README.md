@@ -9,12 +9,14 @@
 `bash ./script.sh`
 ## Портирование 
 Данный проект можно портировать на другие языки программированияю
+
 На Java
 `class Main {
-  public static void main(String[] args){
-    System.out.println("777");
-  }
-}`
+    public static void main(String[] args){
+        System.out.println("777");
+    }
+    }`
+    
 На C++
 `#include <iostream>
 
