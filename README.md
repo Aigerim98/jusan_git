@@ -31,4 +31,4 @@ int main() {
   return 0;
 }
 ```
-> ![](/home/jusan-git/Vexels-Office-Bulb.ico) Попробуйте реализовать на Python, Go и JavaScript
+> ![](https://freepikpsd.com/file/2019/10/think-bulb-png-1-Transparent-Images.png) Попробуйте реализовать на Python, Go и JavaScript
