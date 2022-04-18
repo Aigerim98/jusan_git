@@ -41,6 +41,3 @@ int main() {
 |WhatsApp|[Ссылка](https://itsfoss.com/apt-get-linux-guide/)|30 минут|
 |Telegram|[Ссылка](https://itsfoss.com/apt-get-linux-guide/)|5 минут|
 
-
-
-|
