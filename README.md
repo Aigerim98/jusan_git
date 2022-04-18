@@ -31,3 +31,4 @@ int main() {
   return 0;
 }
 ```
+> Попробуйте реализовать на Python, Go и JavaScript
