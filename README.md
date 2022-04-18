@@ -11,7 +11,7 @@
 Данный проект можно портировать на другие языки программированияю
 
 На Java
-```
+```java
 class Main {
     public static void main(String[] args){
         System.out.println("777");
@@ -21,7 +21,7 @@ class Main {
 
 На C++
 
-```
+```C++
 #include <iostream>
 
 using namespace tsd;
