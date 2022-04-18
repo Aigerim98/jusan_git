@@ -16,15 +16,18 @@ class Main {
     public static void main(String[] args){
         System.out.println("777");
     }
-    }
+}
 ```
-    
+
 На C++
-`#include <iostream>
+
+```
+#include <iostream>
 
 using namespace tsd;
 
 int main() {
   cout << 777 << endl;
   return 0;
-}`
+}
+```
