@@ -31,4 +31,4 @@ int main() {
   return 0;
 }
 ```
-> ![]()https://www.shareicon.net/data/128x128/2016/10/18/845255_light-bulb_512x512.png Попробуйте реализовать на Python, Go и JavaScript
+> 💡 Попробуйте реализовать на Python, Go и JavaScript
