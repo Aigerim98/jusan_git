@@ -31,4 +31,4 @@ int main() {
   return 0;
 }
 ```
-> ![](/jusan-git/Vexels-Office-Bulb.ico) Попробуйте реализовать на Python, Go и JavaScript
+> ![](/home/jusan-git/Vexels-Office-Bulb.ico) Попробуйте реализовать на Python, Go и JavaScript
